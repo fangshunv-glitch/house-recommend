@@ -1,0 +1,17 @@
+# Data collection services and browser collectors are kept local.
+/collector/
+/extension/
+
+# Local data, runs, logs, and generated previews.
+/.tmp-pdf/
+*.log
+
+# Local collector state if any is created at the project root later.
+/data/
+/runs/
+/tasks/
+
+# Design/reference material stays local and is not part of the web project upload.
+/要求.docx
+/Y2K复古风-v2.pdf
+/Y2K复古网页-风格话术.md
